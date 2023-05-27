@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("../imagens/background.png");
+    background-size: 1325px 620px;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.logo-container img {
+    width: 500px; 
+    margin-left: -70px;
+    height: auto;
+}
+
+.logo-container {
+    margin-bottom: -50px;
+}
+  
+h3, h1 {
+    margin-top: 10px; 
+    text-indent: 157px;
+    margin-bottom: -10px;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+    text-indent: 154px;
+}
+
+h3{
+    font-family: 'Bahnschrift', sans-serif;
+    font-size: 17px;
+    font-weight: lighter;
+    color: grey;
+}
+
+p, p{
+    margin-top: 90px;
+    margin-bottom: -80px;
+    font-family: 'Bahnschrift', sans-serif;
+    text-indent: 157px;
+    color: grey;
+}
